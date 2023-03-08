@@ -1,5 +1,5 @@
 # WorkoutBuddyApp
-
+ 
 WorkoutBuddyApp
 WorkoutBuddyApp is a web application that allows users to create and track their workouts. Users can sign up, log in, and create customized workouts with specific exercises and reps. The app also includes a dashboard where users can view their workout history and progress.
 
